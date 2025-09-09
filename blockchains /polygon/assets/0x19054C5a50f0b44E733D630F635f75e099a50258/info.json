@@ -1,0 +1,22 @@
+{
+  "name": "Hexacoin",
+  "symbol": "HXCN",
+  "decimals": 18,
+  "description": "Hexacoin (HXCN) is the universal cryptocurrency of © Alexander Denys' Universe and Ecosystem. It powers Hexacraftia (https://hexacraftia.io/) and serves as the official token for in-game economy and broader ecosystem integration.",
+  "website": "https://hexacraftia.io/",
+  "explorer": "https://polygonscan.com/token/0x19054C5a50f0b44E733D630F635f75e099a50258",
+  "status": "active",
+  "id": "0x19054C5a50f0b44E733D630F635f75e099a50258",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/alexanderdenys/hexacoin"
+    }
+  ],
+  "tags": [
+    "gaming",
+    "erc20",
+    "polygon",
+    "utility-token"
+  ]
+}
