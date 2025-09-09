@@ -24,7 +24,7 @@ Hexacoin (**HXCN**) is the official digital currency powering the **Hexacraftia*
 - **Decimals**: 18
 - **Total Supply**: 23,000,000,000 HXCN
 - **Standard**: ERC-20
-- **Contract Address**: [`0x19054C5a50f0b44E733D630F635f75e099a50258`](https://polygonscan.com/token/0x19054C5a50f0b44E733D630F635f75e099a50258)
+- **Contract Address**: [`0xd92D24Fdd79730fF10D9755204421fC4E95cB0A9`](https://polygonscan.com/token/0xd92D24Fdd79730fF10D9755204421fC4E95cB0A9)
 - **Network**: Polygon (PoS)
 
 ---
@@ -41,7 +41,7 @@ HXCN is fully compatible with **ERC-20 wallets** such as:
 👉 To add HXCN manually in MetaMask:
 
 - Network: **Polygon PoS (137)**
-- Token Contract: `0x19054C5a50f0b44E733D630F635f75e099a50258`
+- Token Contract: `0xd92D24Fdd79730fF10D9755204421fC4E95cB0A9`
 - Symbol: **HXCN**
 - Decimals: **18**
 
@@ -69,7 +69,7 @@ HXCN is fully compatible with **ERC-20 wallets** such as:
 
 - 🌍 Website: [https://hexacraftia.io/](https://hexacraftia.io/)
 - 🐙 GitHub: [https://github.com/alexanderdenys/hexacoin](https://github.com/alexanderdenys/hexacoin)
-- 🔎 Polygonscan: [View Contract](https://polygonscan.com/token/0x19054C5a50f0b44E733D630F635f75e099a50258)
+- 🔎 Polygonscan: [View Contract](https://polygonscan.com/token/0xd92D24Fdd79730fF10D9755204421fC4E95cB0A9)
 
 ---
 
